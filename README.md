@@ -11,4 +11,4 @@ Experienced in working with remote international teams.
 `PHP 8` `Laravel` `Symfony` `MySQL` `MongoDB` `Redis` `Docker` `REST APIs`
 
 **Cairo, Egypt** · Open to remote opportunities  
-📧 mohammedelsaeed4444@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohammed-el-saeed-863245121))
+📧 mohammedelsaeed4444@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohammed-el-saeed-863245121)
